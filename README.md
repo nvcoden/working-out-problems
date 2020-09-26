@@ -8,6 +8,6 @@ The question are from this discord channel👇
 
 **_AlphaBet_**
 
-Questions are written in the files itself.
+Questions are written in the files itself.Or will be attached along with it.
 
 So. Enjoy my codes.😁✌
