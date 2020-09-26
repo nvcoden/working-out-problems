@@ -8,4 +8,6 @@ The question are from this discord channel👇
 
 **_AlphaBet_**
 
+Questions are written in the files itself.
+
 So. Enjoy my codes.😁✌
