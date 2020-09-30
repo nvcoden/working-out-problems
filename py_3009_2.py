@@ -7,9 +7,7 @@ For instance, the string aab could be shortened to b in one operation.
 Steve’s task is to delete as many characters as possible using this method and print the resulting string. 
 If the final string is empty, return Empty String.
 '''
-import sys
-from io import StringIO
-sys.stdin = StringIO('''cccxllyyyy''')
+
 def super_reduced_string(a):
     b = set(a) 
     for i in b:
