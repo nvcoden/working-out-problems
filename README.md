@@ -1,4 +1,11 @@
 # working-out-problems
+
+---------------------------
+AS OF NOVEMBER 2020, I AM A LITTLE BUSY WITH MY INTAKE INTO NEW JOB
+I AM LEARNING NEW STUFF, SO MIGHT NOT BE ABLE TO UPDATE AND DO MORE 
+QUESTIONS HERE MORE OFTEN. I'LL UPDATE IF THAT CHANGES. 
+---------------------------
+
 Me trying on different problems (almost) everyday
 
 Hello
